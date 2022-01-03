@@ -19,3 +19,5 @@ Second action is to deploy the movie api.
 	### Copy of application in the recent directory
 	- source of application is ~/movieapi.jar
 	- destination of the application is /applications
+
+	##### Merci Gabriel :)
